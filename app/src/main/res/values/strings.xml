@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Heart Doctor</string>
+
+    <string-array name="genderitems">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+    <string-array name="ageitems">
+        <item>40 - 49</item>
+        <item>50 - 59</item>
+        <item>60 - 69</item>
+        <item>≥ 70</item>
+    </string-array>
+
+    <string-array name="cholesitems">
+        <item>≤ 189</item>
+        <item>190 - 227</item>
+        <item>228 - 265</item>
+        <item>266 - 303</item>
+        <item>≥ 304</item>
+    </string-array>
+
+    <string-array name="sbpitems">
+        <item>120 - 139</item>
+        <item>140 - 159</item>
+        <item>160 - 179</item>
+        <item>≥ 180</item>
+    </string-array>
+
+</resources>
